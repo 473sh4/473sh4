@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
+  
 </div>
 
 ###
@@ -90,9 +90,6 @@
   
 </div>
 
-markdown
-### 📈 GitHub Activity Graph:
-![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user
 
 
 ###
